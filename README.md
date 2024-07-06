@@ -6,3 +6,4 @@
 
 [hackerRank](https://www.hackerrank.com/)
 
+[simplilearn](https://lms.simplilearn.com/)
