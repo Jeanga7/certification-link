@@ -13,3 +13,5 @@
 [shiksha](https://www.shiksha.com/online-courses/free-online-courses-certificates)
 
 [ezitech](https://ezitech.org/courses-ezitech/flutter-dart-course-rawalpindi)
+
+[scaler](https://www.scaler.com/topics/courses/)
