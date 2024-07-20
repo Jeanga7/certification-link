@@ -17,3 +17,5 @@
 [scaler](https://www.scaler.com/topics/courses/)
 
 [great learning](https://www.mygreatlearning.com/academy)
+
+[data-flair](https://data-flair.training/courses/free-angular-course)
