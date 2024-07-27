@@ -19,3 +19,5 @@
 [great learning](https://www.mygreatlearning.com/academy)
 
 [data-flair](https://data-flair.training/courses/free-angular-course)
+
+[coursesity](https://coursesity.com/free-tutorials-learn)
