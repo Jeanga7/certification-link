@@ -9,6 +9,7 @@
 [simplilearn](https://lms.simplilearn.com/)
 
 [classcentral](https://www.classcentral.com)
+[classCentral2](https://www.classcentral.com/report/free-developer-it-certifications/)
 
 [shiksha](https://www.shiksha.com/online-courses/free-online-courses-certificates)
 
